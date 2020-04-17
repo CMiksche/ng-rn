@@ -1,5 +1,8 @@
 # ng-rnc
 
+[![npm version](https://badge.fury.io/js/ng-rnc.svg)](https://badge.fury.io/js/ng-rnc)
+
+
 This is a fork from the original [ng-rn](https://github.com/rechenberger/ng-rn) which wasn't maintained for the last few years and hasn't merged a fix for newer Angular Versions.
 
 ## Rename Angular Components
