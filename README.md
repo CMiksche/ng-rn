@@ -4,6 +4,7 @@
 ![npm](https://img.shields.io/npm/dm/ng-rnc)
 ![GitHub](https://img.shields.io/github/license/cmiksche/ng-rn?style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cmiksche?style=social)](https://twitter.com/cmiksche)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/106336578279256330?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@cmiksche)
 
 This is a fork from the original [ng-rn](https://github.com/rechenberger/ng-rn) which wasn't maintained for the last few years and hasn't merged a fix for newer Angular Versions.
 
