@@ -14,7 +14,7 @@
     "cpx": "^1.5.0",
     "lodash": "^4.17.21",
     "replace-in-file": "^6.3.5",
-    "rimraf": "^3.0.2"
+    "rimraf": "^6.0.1"
   },
   "devDependencies": {},
   "bin": {
